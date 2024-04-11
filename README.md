@@ -100,7 +100,6 @@ This project can serve as a foundation for implementing online voting systems in
 
 ## Quick Start
 ``` bash
-cd votevista-django-crash
 # Install dependencies
 pip install pipenv
 
