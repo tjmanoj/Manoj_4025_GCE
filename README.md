@@ -1,7 +1,3 @@
-To create a README file for your GitHub repository based on the provided project details, you can follow the structure below:
-
----
-
 Voting Web Application using Django Framework
 
 ## Introduction
@@ -102,15 +98,8 @@ This project can serve as a foundation for implementing online voting systems in
 
 ---
 
-You can copy this structure into a Markdown file named `README.md` in your GitHub repository to provide comprehensive documentation for your project. Make sure to replace placeholders with actual content as needed.
-
-# Votevista App (Django project)
-
-> Python Django app to create polls with questions/choices
-
 ## Quick Start
 ``` bash
-cd votevista-django-crash
 # Install dependencies
 pip install pipenv
 
